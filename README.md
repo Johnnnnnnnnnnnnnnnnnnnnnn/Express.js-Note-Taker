@@ -16,7 +16,7 @@ No installation needed.
 Can be used to store, write, and delete notes that the user inputed into the application.
 
 ## Contributing
-JSonathan Santoso.
+Jonathan Santoso.
 
 ## Heroku Website Link
 Link : https://vast-island-17173-f83b89e3c115.herokuapp.com
